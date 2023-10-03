@@ -93,3 +93,12 @@ img.title-image {
         color:aqua;
     }
 }
+
+/* Mobile */
+@media (max-width: 780px) {
+    .article-link {
+        .img {
+            max-width: 15%;
+        }
+    }
+}
